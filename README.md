@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nguyen20000/nguyen20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate iOS developer with a love for crafting beautiful and functional apps using Swift. My journey in mobile development has led me to work on various exciting projects, and I am always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Swift, Objective-C
+- **Frameworks**: UIKit, SwiftUI, Combine
+- **Tools**: Xcode, Git, Cocoapods, Carthage
+- **Other**: RESTful APIs, CoreData, Firebase
+
+## 🌱 What I'm Currently Learning
+
+- Advanced SwiftUI techniques
+- Machine Learning for iOS
+- ARKit for augmented reality applications
+
+## 👯 Let's Collaborate!
+
+I'm open to collaborating on interesting projects and ideas. If you have a project that you think we could work on together, feel free to reach out!
+
+## 🎨 Fun Facts
